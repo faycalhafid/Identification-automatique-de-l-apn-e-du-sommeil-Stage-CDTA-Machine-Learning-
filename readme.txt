@@ -1,0 +1,4 @@
+- Code : "./Code Matlab"
+- Rapport qui explique la démarche et l'analyse des résultats : fichier .pdf
+- Les données utilisées n'ont pas pu être mises sur GIT car trop volumineuses, les détails les concernant + leur source sont dans le rapport
+- Documentation utilisée : "./documentation perso"
